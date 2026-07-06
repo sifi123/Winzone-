@@ -1,0 +1,6 @@
+{
+  "name": "RupeeGrow Earn Platform",
+  "description": "A responsive full-stack simulated earning platform with investment plans, ad-watching, task completion, and secure local database replication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
